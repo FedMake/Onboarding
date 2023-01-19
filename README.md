@@ -17,8 +17,8 @@ Employee Onboarding FedMake Accelerator Developed by Makers within the Federal, 
 
 ## Deployment Guide
 
-1. Download [onboarding.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/onboarding.zip)
-2. Import the [onboarding.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/onboarding.zip)Power Platform solution files into Dataverse or Dataverse for Teams.
+1. Download [onboarding.zip](https://github.com/FedMake/onboarding/raw/main/solution/v1.0.0/onboarding.zip)
+2. Import the [onboarding.zip](https://github.com/FedMake/onboarding/raw/main/solution/v1.0.0/onboarding.zip)Power Platform solution files into Dataverse or Dataverse for Teams.
 
 ## What is a FedMake Accelerator
 
